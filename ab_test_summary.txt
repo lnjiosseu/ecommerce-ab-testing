@@ -1,0 +1,12 @@
+🔎 A/B Test Analysis Summary
+------------------------------------
+Sample Size: 5000 transactions
+
+Conversion Rates by Variant:
+control: 14.84% (n=2466)
+variant: 15.35% (n=2534)
+
+Observed Difference in Conversion Rates: 0.0051
+P-Value (two-sided): 0.632
+95% Bootstrap CI for Difference: [-0.016, 0.0236]
+
